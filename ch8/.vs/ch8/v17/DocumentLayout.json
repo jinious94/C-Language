@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\clang\\ch8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA4C2D6-5B5E-43D7-BDFA-5AAF6DFDD841}|ch8\\ch8.vcxproj|C:\\clang\\ch8\\ch8\\quiz8-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DA4C2D6-5B5E-43D7-BDFA-5AAF6DFDD841}|ch8\\ch8.vcxproj|solutionrelative:ch8\\quiz8-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA4C2D6-5B5E-43D7-BDFA-5AAF6DFDD841}|ch8\\ch8.vcxproj|C:\\clang\\ch8\\ch8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DA4C2D6-5B5E-43D7-BDFA-5AAF6DFDD841}|ch8\\ch8.vcxproj|solutionrelative:ch8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quiz8-2.c",
+              "DocumentMoniker": "C:\\clang\\ch8\\ch8\\quiz8-2.c",
+              "RelativeDocumentMoniker": "ch8\\quiz8-2.c",
+              "ToolTip": "C:\\clang\\ch8\\ch8\\quiz8-2.c",
+              "RelativeToolTip": "ch8\\quiz8-2.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-05T07:49:16.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\clang\\ch8\\ch8\\main.c",
+              "RelativeDocumentMoniker": "ch8\\main.c",
+              "ToolTip": "C:\\clang\\ch8\\ch8\\main.c",
+              "RelativeToolTip": "ch8\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-05T02:17:14.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

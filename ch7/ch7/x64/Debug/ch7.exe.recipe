@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\SoC_workspace\clang\240605\ch7\x64\Debug\ch7.exe</FullPath>
+      <FullPath>C:\clang\ch7\x64\Debug\ch7.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

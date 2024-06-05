@@ -1,4 +1,3 @@
-﻿  main.c
-C:\SoC_workspace\clang\240605\ch7\ch7\main.c(4,2): warning C4013: 'main7_1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\SoC_workspace\clang\240605\ch7\ch7\main.c(5,2): warning C4013: 'quiz7_1_1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  ch7.vcxproj -> C:\SoC_workspace\clang\240605\ch7\x64\Debug\ch7.exe
+﻿  quiz7_2.c
+C:\clang\ch7\ch7\quiz7_2.c(47,1): warning C4716: 'quiz_7_2_4': 값을 반환해야 합니다.
+  ch7.vcxproj -> C:\clang\ch7\x64\Debug\ch7.exe
