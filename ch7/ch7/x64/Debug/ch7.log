@@ -1,3 +1,0 @@
-﻿  quiz7_2.c
-C:\clang\ch7\ch7\quiz7_2.c(47,1): warning C4716: 'quiz_7_2_4': 값을 반환해야 합니다.
-  ch7.vcxproj -> C:\clang\ch7\x64\Debug\ch7.exe
