@@ -7,7 +7,10 @@ int main() {
 	//main9_3();
 	//main9_4();
 	//main9_5();
-	main9_6();
-
+	//main9_6();
+	//main9_7();
+	//main9_8();
+	main9_9();
+	
 	return 0;
 }
