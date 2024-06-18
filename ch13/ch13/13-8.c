@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int* sum(int a, int b);
+
+int main13_8() {
+	int* resp;
+	resp = sum(10, 20);
+	printf("두 정수의 합 : %d \n", *resp);
+
+	return 0;
+}
+
+int* sum(int a, int b)
+{
+	static int res;
+
+	res = a + b;
+
+	return &res;
+}

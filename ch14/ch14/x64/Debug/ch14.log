@@ -1,0 +1,3 @@
+﻿  main.c
+C:\clang\ch14\ch14\main.c(12,2): warning C4013: 'quiz14_2_4' undefined; assuming extern returning int
+  ch14.vcxproj -> C:\clang\ch14\x64\Debug\ch14.exe

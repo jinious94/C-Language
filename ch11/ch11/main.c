@@ -8,7 +8,7 @@ int main() {
 	//main11_7();
 
 	//quiz11_2_3();
-	//quiz11_2_4();
+	quiz11_2_4();
 
 	return 0;
 }

@@ -17,17 +17,19 @@
 //}
 
 int quiz11_2_4() {
-	int ch = getchar();
+	int ch;
 	int max = 0;
-	int length = 0;
+	int length = 1;
+
+	ch = getchar();
 
 	while (ch != EOF) {
 		ch = getchar();
-		length++;
-
-		if (ch == '\n') {
+		
+		if (ch != '\n') length++;
+		else if (ch == '\n') {
 			if (length > max) {
-				max = length - 1;
+				max = length;
 			}
 			length = 0;
 		}
