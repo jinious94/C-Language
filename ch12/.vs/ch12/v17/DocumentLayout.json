@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\clang\\ch12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA916AFB-0DEB-4C8B-9880-0ED04F2085FB}|ch12\\ch12.vcxproj|C:\\clang\\ch12\\ch12\\12-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AA916AFB-0DEB-4C8B-9880-0ED04F2085FB}|ch12\\ch12.vcxproj|solutionrelative:ch12\\12-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AA916AFB-0DEB-4C8B-9880-0ED04F2085FB}|ch12\\ch12.vcxproj|C:\\clang\\ch12\\ch12\\12-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA916AFB-0DEB-4C8B-9880-0ED04F2085FB}|ch12\\ch12.vcxproj|solutionrelative:ch12\\12-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA916AFB-0DEB-4C8B-9880-0ED04F2085FB}|ch12\\ch12.vcxproj|C:\\clang\\ch12\\ch12\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "12-4.c",
-              "DocumentMoniker": "C:\\clang\\ch12\\ch12\\12-4.c",
-              "RelativeDocumentMoniker": "ch12\\12-4.c",
-              "ToolTip": "C:\\clang\\ch12\\ch12\\12-4.c",
-              "RelativeToolTip": "ch12\\12-4.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "12-3.c",
+              "DocumentMoniker": "C:\\clang\\ch12\\ch12\\12-3.c",
+              "RelativeDocumentMoniker": "ch12\\12-3.c",
+              "ToolTip": "C:\\clang\\ch12\\ch12\\12-3.c",
+              "RelativeToolTip": "ch12\\12-3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-17T23:47:37.609Z",
+              "WhenOpened": "2024-06-19T07:17:12.055Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +41,10 @@
               "RelativeDocumentMoniker": "ch12\\main.c",
               "ToolTip": "C:\\clang\\ch12\\ch12\\main.c",
               "RelativeToolTip": "ch12\\main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-17T03:12:00.411Z"
+              "WhenOpened": "2024-06-17T03:12:00.411Z",
+              "EditorCaption": ""
             }
           ]
         }

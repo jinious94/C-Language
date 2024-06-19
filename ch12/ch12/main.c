@@ -3,7 +3,7 @@
 int main() {
 	//main12_1();
 	//main12_2();
-	//main12_3();
+	main12_3();
 	//main12_4();
 	//main12_5();
 	//main12_6();
@@ -18,7 +18,7 @@ int main() {
 	//main12_12();
 	//main12_13();
 
-	quiz12_2_3();
+	//quiz12_2_3();
 
 	return 0;
 }

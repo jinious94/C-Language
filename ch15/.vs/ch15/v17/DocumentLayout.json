@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\clang\\ch15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1AAA2-0E74-41B9-B37D-7CEEE707D7B1}|ch15\\ch15.vcxproj|C:\\clang\\ch15\\ch15\\quiz15-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79E1AAA2-0E74-41B9-B37D-7CEEE707D7B1}|ch15\\ch15.vcxproj|solutionrelative:ch15\\quiz15-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1AAA2-0E74-41B9-B37D-7CEEE707D7B1}|ch15\\ch15.vcxproj|C:\\clang\\ch15\\ch15\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79E1AAA2-0E74-41B9-B37D-7CEEE707D7B1}|ch15\\ch15.vcxproj|solutionrelative:ch15\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E1AAA2-0E74-41B9-B37D-7CEEE707D7B1}|ch15\\ch15.vcxproj|C:\\clang\\ch15\\ch15\\15-8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79E1AAA2-0E74-41B9-B37D-7CEEE707D7B1}|ch15\\ch15.vcxproj|solutionrelative:ch15\\15-8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "15-8.c",
+              "DocumentMoniker": "C:\\clang\\ch15\\ch15\\15-8.c",
+              "RelativeDocumentMoniker": "ch15\\15-8.c",
+              "ToolTip": "C:\\clang\\ch15\\ch15\\15-8.c",
+              "RelativeToolTip": "ch15\\15-8.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-19T03:38:08.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quiz15-2.c",
+              "DocumentMoniker": "C:\\clang\\ch15\\ch15\\quiz15-2.c",
+              "RelativeDocumentMoniker": "ch15\\quiz15-2.c",
+              "ToolTip": "C:\\clang\\ch15\\ch15\\quiz15-2.c",
+              "RelativeToolTip": "ch15\\quiz15-2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-19T03:36:20.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\clang\\ch15\\ch15\\main.c",
+              "RelativeDocumentMoniker": "ch15\\main.c",
+              "ToolTip": "C:\\clang\\ch15\\ch15\\main.c",
+              "RelativeToolTip": "ch15\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-18T23:57:40.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

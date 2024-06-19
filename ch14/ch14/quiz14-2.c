@@ -24,7 +24,7 @@ int quiz14_2_4() {
 			sum += arr[j][i];
 		}
 		arr[4][i] = sum;
-		total += sum;
+		//total += sum;
 	}
 
 	arr[4][5] = total;

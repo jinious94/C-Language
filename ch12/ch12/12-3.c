@@ -8,5 +8,4 @@ int main12_3() {
 	printf("첫 번째 단어 : %s \n", str);
 	scanf("%s", str);
 	printf("버퍼에 남아 있는 두 번째 단어 : %s \n", str);
-
 }
