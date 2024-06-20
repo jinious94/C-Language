@@ -140,6 +140,7 @@
     <ClCompile Include="12-7.c" />
     <ClCompile Include="12-8.c" />
     <ClCompile Include="12-9.c" />
+    <ClCompile Include="mygets.c" />
     <ClCompile Include="main.c">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>

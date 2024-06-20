@@ -10,7 +10,9 @@ int main() {
 	//main9_6();
 	//main9_7();
 	//main9_8();
-	main9_9();
+	//main9_9();
 	
+	quiz9_2_4();
+
 	return 0;
 }

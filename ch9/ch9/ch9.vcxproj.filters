@@ -45,5 +45,8 @@
     <ClCompile Include="9-9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="quiz9-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

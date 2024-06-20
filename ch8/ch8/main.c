@@ -12,7 +12,8 @@ int main() {
 	// main8_6();
 	// main8_7();
 
-	// quiz8_2_3();
+	//quiz8_1_3();
+	//quiz8_2_3();
 	quiz8_2_4();
 
 	return 0;

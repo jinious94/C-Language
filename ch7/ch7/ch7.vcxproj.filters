@@ -21,9 +21,6 @@
     <ClCompile Include="7-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="quiz7_1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="7-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -42,7 +39,10 @@
     <ClCompile Include="7-7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="quiz7_2.c">
+    <ClCompile Include="quiz7-1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz7-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

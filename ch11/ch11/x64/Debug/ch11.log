@@ -1,2 +1,4 @@
-﻿  quiz11-2.c
+﻿  11-6.c
+  main.c
+C:\clang\ch11\ch11\main.c(7,2): warning C4013: 'main11_6' undefined; assuming extern returning int
   ch11.vcxproj -> C:\clang\ch11\x64\Debug\ch11.exe

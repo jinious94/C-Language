@@ -1,20 +1,20 @@
 #include <stdio.h>
 #include <string.h>
 
-//int quiz11_2_3() {
-//	int ch;
-//	int cnt = 0;
-//	ch = getchar();
-//
-//	while (ch != '\n') {
-//		if ((ch >= 'a') && (ch <= 'z')) cnt++;
-//		ch = getchar();
-//	}
-//
-//	printf("소문자의 개수 : %d \n", cnt);
-//
-//	return 0;
-//}
+int quiz11_2_3() {
+	int ch;
+	int cnt = 0;
+	ch = getchar();
+
+	while (ch != '\n') {
+		if ((ch >= 'a') && (ch <= 'z')) cnt++;
+		ch = getchar();
+	}
+
+	printf("소문자의 개수 : %d \n", cnt);
+
+	return 0;
+}
 
 int quiz11_2_4() {
 	int ch;

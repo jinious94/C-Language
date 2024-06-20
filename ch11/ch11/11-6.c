@@ -12,6 +12,7 @@ int main11_6() {
 
 void my_gets(char* str, int size) {
 	int ch;
+
 	int i = 0;
 
 	ch = getchar();

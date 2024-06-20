@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\clang\\ch9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D809EBC8-EFDF-49F1-9CE2-A0DCA5524598}|ch9\\ch9.vcxproj|C:\\clang\\ch9\\ch9\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D809EBC8-EFDF-49F1-9CE2-A0DCA5524598}|ch9\\ch9.vcxproj|solutionrelative:ch9\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D809EBC8-EFDF-49F1-9CE2-A0DCA5524598}|ch9\\ch9.vcxproj|C:\\clang\\ch9\\ch9\\quiz9-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D809EBC8-EFDF-49F1-9CE2-A0DCA5524598}|ch9\\ch9.vcxproj|solutionrelative:ch9\\quiz9-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D809EBC8-EFDF-49F1-9CE2-A0DCA5524598}|ch9\\ch9.vcxproj|C:\\clang\\ch9\\ch9\\9-6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D809EBC8-EFDF-49F1-9CE2-A0DCA5524598}|ch9\\ch9.vcxproj|solutionrelative:ch9\\9-6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D809EBC8-EFDF-49F1-9CE2-A0DCA5524598}|ch9\\ch9.vcxproj|C:\\clang\\ch9\\ch9\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D809EBC8-EFDF-49F1-9CE2-A0DCA5524598}|ch9\\ch9.vcxproj|solutionrelative:ch9\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 220,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "9-6.c",
-              "DocumentMoniker": "C:\\clang\\ch9\\ch9\\9-6.c",
-              "RelativeDocumentMoniker": "ch9\\9-6.c",
-              "ToolTip": "C:\\clang\\ch9\\ch9\\9-6.c",
-              "RelativeToolTip": "ch9\\9-6.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "DocumentIndex": 0,
+              "Title": "quiz9-2.c",
+              "DocumentMoniker": "C:\\clang\\ch9\\ch9\\quiz9-2.c",
+              "RelativeDocumentMoniker": "ch9\\quiz9-2.c",
+              "ToolTip": "C:\\clang\\ch9\\ch9\\quiz9-2.c",
+              "RelativeToolTip": "ch9\\quiz9-2.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwB0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-14T02:33:14.127Z",
+              "WhenOpened": "2024-06-19T11:21:26.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "C:\\clang\\ch9\\ch9\\main.c",
               "RelativeDocumentMoniker": "ch9\\main.c",
               "ToolTip": "C:\\clang\\ch9\\ch9\\main.c",
               "RelativeToolTip": "ch9\\main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-05T07:29:07.823Z",
               "EditorCaption": ""
